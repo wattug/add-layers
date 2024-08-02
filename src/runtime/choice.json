@@ -1,0 +1,24 @@
+{
+  "bidangOptions": [
+    "Bidang A",
+    "Bidang B",
+    "Bidang C"
+  ],
+  "subbidangOptions": {
+    "Bidang A": [
+      "Subbidang A",
+      "Subbidang B",
+      "Subbidang C"
+    ],
+    "Bidang B": [
+      "Subbidang X",
+      "Subbidang Y",
+      "Subbidang Z"
+    ],
+    "Bidang C": [
+      "Subbidang M",
+      "Subbidang N",
+      "Subbidang O"
+    ]
+  }
+}
